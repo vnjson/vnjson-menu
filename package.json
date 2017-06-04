@@ -1,0 +1,19 @@
+{
+  "name": "vnjson-menu",
+  "version": "0.1.1",
+  "description": "```js\r vnjs.parse({\r   menu: {\r     menuItem1: 'chapter1', //label\r     menuItem2: {points: 4, label: 'lab/labuda'},\r     menuItem3: '' //resume\r   }\r })",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vnjson/vnjson-menu.git"
+  },
+  "author": "Kasin Sergey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vnjson/vnjson-menu/issues"
+  },
+  "homepage": "https://github.com/vnjson/vnjson-menu#readme"
+}
