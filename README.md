@@ -1,5 +1,5 @@
-# vnjson-menu
-
+## vnjson-menu
+![](http://docs.vnjson.space/images/vnjson-menu.png)
 ```js
 vnjs.parse({
   menu: {
